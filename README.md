@@ -66,4 +66,15 @@ Creo que los grandes resultados se construyen con constancia, curiosidad y dedic
 💻 Código y creatividad.
 🎮 Un sueño por desarrollar.
 
+## 🚀 Mis proyectos
+
+Soy una persona apasionada por la tecnología, la programación y los videojuegos. Actualmente estoy aprendiendo desarrollo de software y trabajando para convertir mis ideas en proyectos reales.
+
+- 🎮 **Desarrollo de videojuegos:** Mi sueño es crear un videojuego de acción y aventura que pueda disfrutar gente de todo el mundo.
+- 💻 **Programación:** Mi objetivo es convertirme en un gran programador, desarrollar mis habilidades cada día y nunca dejar de aprender.
+- ⚽ **Fútbol:** Una de mis grandes pasiones y una fuente de motivación.
+- 🐉 **Dragon Ball:** Una inspiración para nunca rendirme y superar mis propios límites.
+
+También estoy construyendo mis primeros proyectos web como parte de mi formación en ADSO.
+
 ¡Gracias por visitar mi perfil! 👋🔥
