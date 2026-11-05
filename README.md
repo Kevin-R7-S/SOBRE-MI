@@ -69,6 +69,6 @@ Creo que los grandes resultados se construyen con constancia, curiosidad y dedic
 ## Mis proyectos
 
 - [Mis metas](https://github.com/Kevin-R7-S/mis-metas)
-- [Mis metas](https://github.com/Kevin-R7-S/mi-receta)
+- [Mi receta](https://github.com/Kevin-R7-S/mi-receta)
 
 ¡Gracias por visitar mi perfil! 👋🔥
