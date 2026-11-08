@@ -66,6 +66,15 @@ Creo que los grandes resultados se construyen con constancia, curiosidad y dedic
 💻 Código y creatividad.
 🎮 Un sueño por desarrollar.
 
+
+## Mis hobbies 🎮⚽
+
+- Jugar fútbol.
+- Jugar videojuegos.
+- Ver Dragon Ball.
+- Aprender programación.
+- Explorar nuevas tecnologías y herramientas de desarrollo.
+
 ## Mis proyectos
 
 - [Mis metas](https://github.com/Kevin-R7-S/mis-metas)
