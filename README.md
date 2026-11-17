@@ -80,4 +80,13 @@ Creo que los grandes resultados se construyen con constancia, curiosidad y dedic
 - [Mis metas](https://github.com/Kevin-R7-S/mis-metas)
 - [Mi receta](https://github.com/Kevin-R7-S/mi-receta)
 
+
+## Lo que aprendí de los conflictos
+
+Al trabajar con Git aprendí que los conflictos ocurren cuando dos o más personas realizan cambios en una misma parte de un archivo.
+
+También aprendí que los conflictos no son errores que no tengan solución. Se pueden resolver revisando los cambios de cada integrante, decidiendo qué contenido conservar y realizando un commit con la solución.
+
+Esta actividad me permitió comprender la importancia del trabajo en equipo, la comunicación y el uso de herramientas como Git y GitHub para trabajar en proyectos colaborativos.
+
 ¡Gracias por visitar mi perfil! 👋🔥
