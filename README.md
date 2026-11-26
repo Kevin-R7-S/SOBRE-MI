@@ -1,92 +1,115 @@
-⚽🐉 ¡Hola, soy Kevin Suárez! 💻
-🚀 Aprendiz de Análisis y Desarrollo de Software
 
-¡Bienvenido a mi mundo! Aquí se unen mi pasión por el fútbol, mi inspiración en Dragon Ball y mi camino en la programación.
+<div align="center">
 
-🔥 "Superando mis límites, como un Saiyajin, hasta convertir mis ideas en realidad."
-👨‍💻 Sobre mí
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:24105A,100:007BFF&height=190&section=header&text=KEVIN%20SUAREZ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PLAYER%2001%20%7C%20PROGRAMMING%20MODE&descSize=16&descAlignY=60" />
 
-Soy Kevin Suárez, aprendiz de Análisis y Desarrollo de Software y un apasionado de la tecnología.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=INITIALIZING...;LOADING+PLAYER+01...;WELCOME+KEVIN!;LEVELING+UP+EVERY+DAY!" />
 
-Actualmente estoy fortaleciendo mis conocimientos de programación, aprendiendo Java y descubriendo todo lo que puedo crear mediante el código.
+<br>
 
-Me gusta el fútbol por su pasión, estrategia y disciplina. También soy fan de Dragon Ball, una serie que me inspira a nunca rendirme, superar mis límites y seguir mejorando.
+<img src="https://img.shields.io/badge/🎮_GAMER-080014?style=for-the-badge&labelColor=24105A" />
+<img src="https://img.shields.io/badge/💻_ADSO_STUDENT-080014?style=for-the-badge&labelColor=24105A" />
+<img src="https://img.shields.io/badge/⚡_LEVELING_UP-080014?style=for-the-badge&labelColor=007BFF" />
 
-Ahora estoy enfocado en la programación, con un gran sueño: crear un videojuego de acción o aventura que impacte a nivel mundial y deje huella en los jugadores. 🎮🌎
+</div>
 
-⚽🐉 Mis tres grandes pasiones
-⚽ Fútbol: una pasión que me enseña disciplina, estrategia y trabajo en equipo.
-🐉 Dragon Ball: mi inspiración para entrenar, mejorar y nunca rendirme ante los desafíos.
-💻 Programación: el camino que estoy recorriendo para convertir mis ideas en proyectos reales.
-🎯 Mis objetivos como desarrollador
-☕ Aprender Java y fortalecer mis bases de programación.
-🧠 Mejorar mi lógica y mi capacidad para resolver problemas.
-🛠️ Crear proyectos propios y compartirlos en GitHub.
-🎮 Desarrollar un videojuego de acción o aventura.
-🌎 Crear experiencias que puedan disfrutar personas de todo el mundo.
-🚀 Convertirme en un gran desarrollador de software.
-🛠️ Tecnologías y herramientas
+---
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+## 👾 SOBRE MÍ
 
-📚 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos. Mi objetivo es seguir explorando nuevas tecnologías y lenguajes de programación.
+¡Hola! Soy **Kevin**, aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA, Colombia 🇨🇴.
 
-🎮 Mi sueño: crear un videojuego
+Me gusta la tecnología, los videojuegos y descubrir cosas nuevas mediante la programación.
 
-Uno de mis mayores objetivos es desarrollar un videojuego de acción o aventura que combine creatividad, emoción y una historia capaz de conectar con jugadores de todo el mundo.
+Actualmente estoy aprendiendo, experimentando y creando mis primeros proyectos.
 
-Quiero pasar de ser un jugador que disfruta los videojuegos a ser un desarrollador que crea experiencias inolvidables.
+```javascript
+const kevin = {
+    nombre: "Kevin Suárez",
+    rol: "Aprendiz ADSO",
+    pais: "Colombia 🇨🇴",
+    intereses: [
+        "🎮 Videojuegos",
+        "💻 Programación",
+        "🚀 Tecnología"
+    ],
+    aprendiendo: [
+        "JavaScript",
+        "React",
+        "Node.js"
+    ],
+    objetivo: "Convertirme en un gran programador",
+    sueño: "Crear mi propio videojuego"
+};
 
-Cada línea de código será un paso más hacia ese sueño. 🔥
+console.log("¡Bienvenido a mi mundo!");
+```
 
-📂 Mi camino en GitHub
+---
 
-En este perfil encontrarás:
+## ⚡ MI INVENTARIO
 
-📘 Ejercicios y prácticas de Java.
-💻 Proyectos para mejorar mis habilidades.
-🧩 Experimentos y nuevos retos de programación.
-🎮 Futuros proyectos relacionados con el desarrollo de videojuegos.
+<div align="center">
 
-Estoy comenzando mi camino, pero cada proyecto será una oportunidad para aprender y mejorar.
+**🎨 FRONTEND**
 
-🔥 Mi filosofía
-"Un Saiyajin nunca deja de entrenar, un futbolista nunca deja de practicar y un programador nunca deja de aprender."
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-Creo que los grandes resultados se construyen con constancia, curiosidad y dedicación. No importa cuántas veces me equivoque: lo importante es aprender, levantarme y seguir adelante.
+<br><br>
 
-🌟 ¡Este es solo el comienzo de mi aventura!
+**⚙️ HERRAMIENTAS Y BACKEND**
 
-⚽ Pasión por el fútbol.
-🐉 Mentalidad Saiyajin.
-💻 Código y creatividad.
-🎮 Un sueño por desarrollar.
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,vscode&theme=dark" />
 
+</div>
 
-## Mis hobbies 🎮⚽
+---
 
-- Jugar fútbol.
-- Jugar videojuegos.
-- Ver Dragon Ball.
-- Aprender programación.
-- Explorar nuevas tecnologías y herramientas de desarrollo.
+## 🎯 MIS MISIONES
 
-## Mis proyectos
+| NIVEL | MISIÓN |
+|:---:|---|
+| 01 | 📚 Aprender programación desde cero |
+| 02 | ⚡ Mejorar mis habilidades cada día |
+| 03 | 🛠️ Crear proyectos interesantes |
+| 04 | 🚀 Aprender nuevas tecnologías |
+| 05 | 🎮 Desarrollar mi propio videojuego |
 
-- [Mis metas](https://github.com/Kevin-R7-S/mis-metas)
-- [Mi receta](https://github.com/Kevin-R7-S/mi-receta)
+---
 
+## 🕹️ MIS PROYECTOS
 
-## Lo que aprendí de los conflictos
+<div align="center">
 
-Al trabajar con Git aprendí que los conflictos ocurren cuando dos o más personas realizan cambios en una misma parte de un archivo.
+<img src="https://img.shields.io/badge/STATUS-LEARNING-7B61FF?style=for-the-badge" />
 
-También aprendí que los conflictos no son errores que no tengan solución. Se pueden resolver revisando los cambios de cada integrante, decidiendo qué contenido conservar y realizando un commit con la solución.
+</div>
 
-Esta actividad me permitió comprender la importancia del trabajo en equipo, la comunicación y el uso de herramientas como Git y GitHub para trabajar en proyectos colaborativos.
+Aquí encontrarás algunos de mis proyectos y prácticas mientras avanzo en mi aprendizaje.
 
-¡Gracias por visitar mi perfil! 👋🔥
+- 💻 Ejercicios de programación.
+- 🌐 Proyectos de desarrollo web.
+- ⚙️ Prácticas con JavaScript y Node.js.
+- 🚀 Nuevas ideas y experimentos.
+
+<!-- Cuando tengas proyectos destacados, puedes agregar aquí sus enlaces -->
+
+---
+
+## 🌌 MI FILOSOFÍA
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=NEVER+STOP+LEARNING;EVERY+BUG+IS+A+LESSON;EVERY+PROJECT+IS+A+NEW+LEVEL" />
+
+<br><br>
+
+### 🔥 NEXT LEVEL: UN GRAN PROGRAMADOR
+
+*Superando mis límites, como un Saiyajin.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:24105A,100:080014&height=120&section=footer" width="100%" />
+
+</div>
